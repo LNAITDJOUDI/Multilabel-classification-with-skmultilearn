@@ -8,7 +8,8 @@ La classification multi-labels est une généralisation de la classification mul
 classification unique des instances dans une ou plusieurs classes précisément; dans le problème multi-étiquettes, 
 il n'y a aucune contrainte sur le nombre de classes auxquelles l'instance peut être affectée.
 
-# Les methodes de resolution d'un probleme multi-label:
+## Les methodes de resolution d'un probleme multilabel:
+
   - Méthodes de transformation: Elles transforment le problème d’apprentissage multi-label en plusieurs problèmes de 
     classification ou régression mono-label
   - Méthodes adaptées: Elles customisent des algorithmes d’apprentissage mono-label pour les
